@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1637.253" height="879.72" viewBox="0 0 1637.253 879.72">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" y2="-0.033" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#282b32"/>
+      <stop offset="0.384" stop-color="#25282f"/>
+      <stop offset="0.614" stop-color="#1f2127"/>
+      <stop offset="0.802" stop-color="#131518"/>
+      <stop offset="0.968" stop-color="#030404"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="-0.111" x2="0.5" y2="0.934" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#525252"/>
+      <stop offset="0.22" stop-color="#9fa0a4"/>
+      <stop offset="0.34" stop-color="#96979b"/>
+      <stop offset="0.534" stop-color="#7e7f83"/>
+      <stop offset="0.776" stop-color="#58595c"/>
+      <stop offset="1" stop-color="#2f3032"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#595959"/>
+      <stop offset="0.011" stop-color="#eeeef0"/>
+      <stop offset="0.043" stop-color="gray"/>
+      <stop offset="0.29" stop-color="#e8e8e8"/>
+      <stop offset="0.297" stop-color="#e9e9e9"/>
+      <stop offset="0.353" stop-color="#f0f0f0"/>
+      <stop offset="0.511" stop-color="#f2f2f2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#595959"/>
+      <stop offset="0.011" stop-color="#eeeef0"/>
+      <stop offset="0.043" stop-color="gray"/>
+      <stop offset="0.29" stop-color="#e8e8e8"/>
+      <stop offset="0.296" stop-color="#eaeaea"/>
+      <stop offset="0.331" stop-color="#f6f6f6"/>
+      <stop offset="0.38" stop-color="#fdfdfd"/>
+      <stop offset="0.516" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.007" y1="0.5" x2="1.003" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="0.018" stop-color="#646464"/>
+      <stop offset="0.047" stop-color="#838384"/>
+      <stop offset="0.08" stop-color="#9d9e9f"/>
+      <stop offset="0.118" stop-color="#b3b4b5"/>
+      <stop offset="0.161" stop-color="#c3c4c6"/>
+      <stop offset="0.215" stop-color="#cfd0d2"/>
+      <stop offset="0.29" stop-color="#d6d7d9"/>
+      <stop offset="0.5" stop-color="#d8d9db"/>
+      <stop offset="0.707" stop-color="#d6d7d9"/>
+      <stop offset="0.782" stop-color="#cfd0d2"/>
+      <stop offset="0.835" stop-color="#c3c4c6"/>
+      <stop offset="0.878" stop-color="#b3b4b5"/>
+      <stop offset="0.915" stop-color="#9d9e9f"/>
+      <stop offset="0.948" stop-color="#838384"/>
+      <stop offset="0.977" stop-color="#646464"/>
+      <stop offset="0.995" stop-color="#4d4d4d"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_7905" data-name="Group 7905" transform="translate(-141.373 -1714.28)">
+    <g id="Group_7904" data-name="Group 7904" transform="translate(619.347 1618.684)">
+      <path id="Path_1" data-name="Path 1" d="M1159.279,493.256c0,12.066-366.507,21.829-818.612,21.829-452.125,0-818.641-9.763-818.641-21.829s366.516-21.818,818.641-21.818C792.771,471.438,1159.279,481.2,1159.279,493.256Z" transform="translate(0 460.23)" opacity="0.101"/>
+      <g id="Group_11" data-name="Group 11" transform="translate(-403.517 95.596)">
+        <path id="Rectangle_4" data-name="Rectangle 4" d="M18.462,0H1196.108a18.459,18.459,0,0,1,18.459,18.459V821.947a18.461,18.461,0,0,1-18.461,18.461H18.46A18.46,18.46,0,0,1,0,821.948V18.462A18.462,18.462,0,0,1,18.462,0Z" transform="translate(151.822)" fill="#e0e0e0"/>
+        <path id="Rectangle_5" data-name="Rectangle 5" d="M16.764,0H1190.253a16.766,16.766,0,0,1,16.766,16.766V816.091a16.766,16.766,0,0,1-16.766,16.766H16.764A16.764,16.764,0,0,1,0,816.093V16.764A16.764,16.764,0,0,1,16.764,0Z" transform="translate(155.596 3.773)" fill="#1c1f24"/>
+        <rect id="Rectangle_6" data-name="Rectangle 6" width="958.071" height="28.289" transform="translate(272.527 796.823)" fill="url(#linear-gradient)"/>
+        <path id="Rectangle_7" data-name="Rectangle 7" d="M16.764,0H1190.253a16.766,16.766,0,0,1,16.766,16.766V778.378a16.763,16.763,0,0,1-16.763,16.763H16.764A16.764,16.764,0,0,1,0,778.378V16.764A16.764,16.764,0,0,1,16.764,0Z" transform="translate(155.596 3.773)" fill="#3b3b3b"/>
+        <path id="Rectangle_8" data-name="Rectangle 8" d="M15.069,0H1184.4a15.069,15.069,0,0,1,15.069,15.069V772.533A15.067,15.067,0,0,1,1184.4,787.6H15.067A15.067,15.067,0,0,1,0,772.533V15.069A15.069,15.069,0,0,1,15.069,0Z" transform="translate(159.37 7.542)" fill="#000004"/>
+        <g id="Group_10" data-name="Group 10" transform="translate(0 815.362)">
+          <path id="Path_2" data-name="Path 2" d="M1064.272,474.74c0,15.848-40.026,17.216-61.288,17.216h-1386.2c-21.267,0-61.29-1.368-61.29-17.216Z" transform="translate(444.503 -446.684)" fill="url(#linear-gradient-2)"/>
+          <g id="Group_8" data-name="Group 8" transform="translate(0)">
+            <rect id="Rectangle_9" data-name="Rectangle 9" width="751.546" height="26.41" fill="url(#linear-gradient-3)"/>
+            <rect id="Rectangle_10" data-name="Rectangle 10" width="757.229" height="26.41" transform="translate(751.546)" fill="#f2f2f2"/>
+          </g>
+          <g id="Group_9" data-name="Group 9" transform="translate(0 25.389)">
+            <rect id="Rectangle_11" data-name="Rectangle 11" width="751.546" height="2.668" fill="url(#linear-gradient-4)"/>
+            <rect id="Rectangle_12" data-name="Rectangle 12" width="757.229" height="2.668" transform="translate(751.546)" fill="#f2f2f2"/>
+          </g>
+          <path id="Path_3" data-name="Path 3" d="M-55.01,462.128h-93.826a25.744,25.744,0,0,0,22.492,13.2H26.731a25.738,25.738,0,0,0,22.49-13.2Z" transform="translate(806.556 -462.128)" fill="url(#linear-gradient-5)"/>
+        </g>
+      </g>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="1141.013" height="722.431" transform="translate(-216.347 135.596)" fill="#fff"/>
+    </g>
+    <text id="Hubpay_Private_Limited_CUI:_0179726_is_a_company_incorporated_in_Pakistan_under_the_Companies_Act_2017._Hubpay_Private_Limited_is_a_licensee-in-process_for_an_Electronic_Money_Institution_EMI_pursuant_to_Regulations_for_Electronic_Money_Institut" data-name="Hubpay (Private) Limited (CUI: 0179726) is a company incorporated
+in Pakistan, under the Companies Act, 2017. Hubpay (Private) Limited
+is a licensee-in-process for an Electronic Money Institution (EMI),
+pursuant to Regulations for Electronic Money Institut" transform="translate(974 1951.28)" font-size="32" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="-495.904" y="0">Hubpay (Private) Limited (CUI: 0179726) is a company incorporated</tspan><tspan x="-513.36" y="39">in Pakistan, under the Companies Act, 2017. Hubpay (Private) Limited</tspan><tspan x="-479.664" y="78">is a licensee-in-process for an Electronic Money Institution (EMI),</tspan><tspan x="-486.72" y="117">pursuant to Regulations for Electronic Money Institution as issued</tspan><tspan x="-528.496" y="156">by State Bank of Pakistan (SBP). Hubpay currently holds an In-Principle</tspan><tspan x="-486.16" y="195">Approval (IPA) from State Bank of Pakistan (SBP) for an Electronic</tspan><tspan x="-525.264" y="234">Money Institution. Hubpay is dedicated to offer innovative, userfriendly,</tspan><tspan x="-486.688" y="273">and cost-effective digital payment instruments and solutions, with</tspan><tspan x="-456.544" y="312">the goal to foster a digital, cashless, and an inclusive financial</tspan><tspan x="-192.688" y="351">environment for everyone.</tspan></text>
+  </g>
+</svg>
